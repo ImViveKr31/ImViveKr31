@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImViveKr31
 - 👀 I’m interested in Football
-- 🌱 I’m currently learning Full-Stack Web development
+- 🌱 I’m currently learning iOs app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vivekrkrishna0@gmail.com
 
